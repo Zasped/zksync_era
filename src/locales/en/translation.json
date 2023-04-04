@@ -1,0 +1,18 @@
+{
+  "showApiAndWallet": "Show Api key and wallet addresses",
+  "importWallet": "Importing wallets from a txt file (each wallet must be on a new line)",
+  "apiKey": "Api key",
+  "selectProject": "Select project:",
+  "delayWallet": "Boundaries of random delay between wallets:",
+  "delayProject": "Boundaries of random delay between projects:",
+  "continue": "Continue",
+  "start": "Start",
+  "stop": "Stop",
+  "logs": "Logs",
+  "min": "Min",
+  "max": "Max",
+  "from": "From",
+  "to": "To",
+  "walletUpload": "Wallet is loaded:",
+  "NoWalletsDetected": "No wallets detected"
+}
